@@ -16,7 +16,7 @@ const Hero = () => {
             an unparalleled commitment to customer satisfaction. Offering a full
             range of high-efficiency disinfectant. We provide medical device
             sterilization chemical, high-level disinfection products, gas
-            fumigation sachets and absorbable haemostatic gelatin sponge
+            fumigation sachets.
           </p>
         </div>
         {/* Right Side Image  */}
